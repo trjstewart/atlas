@@ -2,7 +2,7 @@
 
 For a long time now I have been talking about putting together a collection of services focused around improving my personal wellbeing, with a particular focus around personal metadata. The overarching goal here is to pull in and display as much metadata about myself as possible. This may include things like dietary, exercise, mental health, sleep, and financial data - basically anything I can track or collect about myself.
 
-I strongly believe the best way to improve my personal wellbeing at the moment is to loose some (a lot) of weight. I've always been a bigger bloke who's likes his food but it's about time I learn that good food doesn't mean unhealthy food.
+I strongly believe the best way to improve my personal wellbeing at the moment is to loose some (a lot) of weight. I've always been a bigger bloke who likes his food but it's about time I learn that good food doesn't mean unhealthy food.
 
 At the moment I am very much in the research phase of the project. There are some high-level questions I want to answer before I really dig into things;
 - [ ] What data can I collect and how?
@@ -31,9 +31,11 @@ As an example of what these calculations would look like for me today;
 
 `BMR = 2590`
 
-`TDEE : 2590 x 1.4`
+`TDEE = BMR x PAL`
 
-`TDEE : 3626`
+`TDEE = 2590 x 1.4`
+
+`TDEE = 3626`
 
 So that tells us how many calories we need to consume to maintain. But that's not what we're here for, we're here to loose some weight. According to [this](https://en.wikipedia.org/wiki/Caloric_deficit) it takes a deficit of 7000 calories to reduce 1kg of weight. That means in order to loose 1kg a week I need to consume on average `2626` calories a day. This number will also reduce slightly as I do loose weight too.
 
