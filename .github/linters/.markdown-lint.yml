@@ -6,8 +6,8 @@ default: true
 # Rules by ID
 MD013:
   line_length: 1000 # Line length 80 is far to short
-MD26:
-  punctuation: ""   # Allow punctuation at the end of headers
+MD026:
+  punctuation: ""   # Allow all punctuation at the end of headers
 
 # Rules by Tag
 blank_lines: false  # Allow blank lines
