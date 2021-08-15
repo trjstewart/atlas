@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node-terminal",
+      "request": "launch",
+      "name": "[dev] Start API Service",
+      "cwd": "${workspaceFolder}/services/api",
+      "command": "npm start",
+    }
+  ]
+}

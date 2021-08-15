@@ -1,5 +1,8 @@
 {
   "markdownlint.config": {
     "extends": "../.github/linters/.yaml-lint.yml"
-  }
+  },
+  "cSpell.ignoreWords": [
+    "sindresorhus"
+  ]
 }

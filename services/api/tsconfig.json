@@ -1,0 +1,31 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "lib": [ "ES2020" ],
+
+    "outDir": "./dist",
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"],
+      "@lib/*": ["lib/*"],
+    },
+
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "typeRoots": ["node_modules/@types"],
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "resolveJsonModule": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": false,
+  },
+  "include": [ "src/**/*.ts", "src/**/*.json", ".env" ],
+  "exclude": [ "node_modules" ],
+}
