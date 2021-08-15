@@ -27,5 +27,5 @@
     "strictFunctionTypes": false,
   },
   "include": [ "src/**/*.ts", "src/**/*.json", ".env" ],
-  "exclude": [ "node_modules" ],
+  "exclude": [ "node_modules" ]
 }
