@@ -54,4 +54,6 @@ While I do think both of those numbers (75 and 82) are ultimately reasonable, I 
 
 ## I want to look good for Matt's Wedding...
 
-As of today (7/20/2020), there are 30 weeks between now and Matt's Wedding (7/7/2021). Hitting my goal of 99kg between now and then isn't likely achievable, that would mean dropping on average 2kg per week. I'm no expert but I have a feeling that would be very unhealthy. Looking good is subjective and realistically my desire here it to not look like I do today - anywhere below today is good.
+As of today (7/12/2020), there are 30 weeks between now and Matt's Wedding (7/7/2021). Hitting my goal of 99kg between now and then isn't likely achievable, that would mean dropping on average 2kg per week. I'm no expert but I have a feeling that would be very unhealthy. Looking good is subjective and realistically my desire here it to not look like I do today - anywhere below today is good.
+
+Update: I did nothing...
